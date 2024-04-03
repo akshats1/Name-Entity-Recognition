@@ -29,3 +29,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+## Torch Install
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
